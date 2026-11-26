@@ -1,0 +1,1 @@
+Write the funniest one-line fortune cookie message for a software engineer, 120 characters or fewer. A single line, deterministic, no randomness.
